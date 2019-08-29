@@ -29,3 +29,11 @@ In this project, you can build your own C++ application or extend this Snake gam
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./SnakeGame`.
+
+## Rubric
+
+1. The project demonstrates an understanding of C++ functions and control structures.
+2. The project uses Object Oriented Programming techniques.
+3. Class constructors utilize member initialization lists.
+4. The project accepts user input and processes the input.
+5. The project makes use of references in function declarations.
